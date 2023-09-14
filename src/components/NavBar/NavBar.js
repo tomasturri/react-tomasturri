@@ -5,7 +5,7 @@ const NavBar =() => {
         <nav>
             <h3>Hormiprem</h3>
                 <div>
-                    <button>tubo</button>
+                    <button>Caño</button>
                     <button>agua</button>
                     <button>pared</button>
                     </div>
