@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bloque de Hormigón - Tipo Ladrillo",
+        "descripcion": "Elemento de premoldeado de hormigón en forma de ladrillo.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Pavimento de Hormigón - Estilo Pizarra",
+        "descripcion": "Pavimento de premoldeado de hormigón con diseño de pizarra.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/00cc00/ffffff",
+        "precio": 2000,
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "titulo": "Losa de Hormigón - Tarragon Chicken",
+        "descripcion": "Losa de premoldeado de hormigón con patrón Tarragon Chicken.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/0000cc/ffffff",
+        "precio": 1800,
+        "stock": 12
+    },
+    {
+        "id": 4,
+        "titulo": "Borde de Jardín - Efecto Piedra",
+        "descripcion": "Elemento de premoldeado de hormigón para borde de jardín con apariencia de piedra.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/ffcc00/ffffff",
+        "precio": 1200,
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "titulo": "Banco de Jardín - Diseño Moderno",
+        "descripcion": "Banco de premoldeado de hormigón con diseño moderno para jardín.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/ff00ff/ffffff",
+        "precio": 2500,
+        "stock": 8
+    },
+    {
+        "id": 6,
+        "titulo": "Maceta de Hormigón - Grande",
+        "descripcion": "Maceta de premoldeado de hormigón de gran tamaño para plantas.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/ffff00/ffffff",
+        "precio": 1600,
+        "stock": 18
+    },
+    {
+        "id": 7,
+        "titulo": "Poste de Valla - Estilo Rústico",
+        "descripcion": "Poste de premoldeado de hormigón con aspecto rústico para vallas.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/ff9900/ffffff",
+        "precio": 900,
+        "stock": 25
+    },
+    {
+        "id": 8,
+        "titulo": "Escalón de Hormigón - Acabado Suave",
+        "descripcion": "Escalón de premoldeado de hormigón con superficie suave para escaleras.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/9900cc/ffffff",
+        "precio": 1700,
+        "stock": 14
+    },
+    {
+        "id": 9,
+        "titulo": "Bordillo de Jardín - Diseño Clásico",
+        "descripcion": "Bordillo de premoldeado de hormigón con diseño clásico para jardín.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/00ffff/ffffff",
+        "precio": 1100,
+        "stock": 22
+    },
+    {
+        "id": 10,
+        "titulo": "Baldosa de Hormigón - Patrón Mosaico",
+        "descripcion": "Baldosa de premoldeado de hormigón con patrón de mosaico para suelos.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/ff6666/ffffff",
+        "precio": 2200,
+        "stock": 9
+    },
+    {
+        "id": 11,
+        "titulo": "Frente de Chimenea - Estilo Ladrillo",
+        "descripcion": "Frente de premoldeado de hormigón con diseño de ladrillo para chimeneas.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/66ff66/ffffff",
+        "precio": 2800,
+        "stock": 6
+    },
+    {
+        "id": 12,
+        "titulo": "Mesa de Jardín - Diseño Minimalista",
+        "descripcion": "Mesa de premoldeado de hormigón con diseño minimalista para exteriores.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/ff99ff/ffffff",
+        "precio": 3100,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Fuente de Jardín - Estilo Clásico",
+        "descripcion": "Fuente de premoldeado de hormigón con diseño clásico para jardines.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/33cc33/ffffff",
+        "precio": 2000,
+        "stock": 12
+    },
+    {
+        "id": 14,
+        "titulo": "Encimera de Cocina - Granito",
+        "descripcion": "Encimera de premoldeado de hormigón con apariencia de granito para cocinas.",
+        "categoria": "Cocina",
+        "imagen": "http://dummyimage.com/200x100.png/ff3366/ffffff",
+        "precio": 1900,
+        "stock": 16
+    },
+    {
+        "id": 15,
+        "titulo": "Columna de Iluminación - Estilo Moderno",
+        "descripcion": "Columna de premoldeado de hormigón con diseño moderno para iluminación exterior.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/ff6633/ffffff",
+        "precio": 2600,
+        "stock": 7
+    },
+    {
+        "id": 16,
+        "titulo": "Banco de Parque - Diseño Clásico",
+        "descripcion": "Banco de premoldeado de hormigón con diseño clásico para parques y plazas.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/00cc99/ffffff",
+        "precio": 1800,
+        "stock": 11
+    },
+    {
+        "id": 17,
+        "titulo": "Buzón de Correo - Estilo Rústico",
+        "descripcion": "Buzón de premoldeado de hormigón con aspecto rústico para correspondencia.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/99ccff/ffffff",
+        "precio": 1400,
+        "stock": 19
+    },
+    {
+        "id": 18,
+        "titulo": "Piedra de Decoración - Tamaño Grande",
+        "descripcion": "Piedra de premoldeado de hormigón de gran tamaño para decoración de jardines.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/ffcc99/ffffff",
+        "precio": 1200,
+        "stock": 24
+    },
+    {
+        "id": 19,
+        "titulo": "Muro de Contención - Diseño Contemporáneo",
+        "descripcion": "Muro de premoldeado de hormigón con diseño contemporáneo para contención de terrenos.",
+        "categoria": "Construcción",
+        "imagen": "http://dummyimage.com/200x100.png/99cc00/ffffff",
+        "precio": 3200,
+        "stock": 5
+    },
+    {
+        "id": 20,
+        "titulo": "Mesa de Picnic - Estilo Tradicional",
+        "descripcion": "Mesa de premoldeado de hormigón con diseño tradicional para picnics y áreas de descanso.",
+        "categoria": "Jardinería",
+        "imagen": "http://dummyimage.com/200x100.png/cc99cc/ffffff",
+        "precio": 2800,
+        "stock": 10
+    }
+]
