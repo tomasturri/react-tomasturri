@@ -19,8 +19,8 @@
     },
     {
         "id": 3,
-        "titulo": "Losa de Hormigón - Tarragon Chicken",
-        "descripcion": "Losa de premoldeado de hormigón con patrón Tarragon Chicken.",
+        "titulo": "Losa de Hormigón",
+        "descripcion": "Losa de premoldeado de hormigón.",
         "categoria": "Construcción",
         "imagen": "http://dummyimage.com/200x100.png/0000cc/ffffff",
         "precio": 1800,
