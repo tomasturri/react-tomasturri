@@ -5,6 +5,8 @@ import { doc, getDoc } from "firebase/firestore";
 import { db } from "../firebase/config";
 
 
+
+
 const ItemDetailContainer = () => {
 
     const [item, setItem] = useState(null);
