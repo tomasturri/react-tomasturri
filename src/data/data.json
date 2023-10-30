@@ -138,7 +138,7 @@
         "id": 16,
         "titulo": "Banco de Parque - Diseño Clásico",
         "descripcion": "Banco de premoldeado de hormigón con diseño clásico para parques y plazas.",
-        "categoria": "Jardinería",
+        "categoria": "jardineria",
         "imagen": "https://buenosaires.gob.ar/sites/default/files/media/image/2015/08/10/75c34c86c5eaef3975154e5dc6f3a4a5cec36d66.jpg",
         "precio": 1800,
         "stock": 11
@@ -156,7 +156,7 @@
         "id": 18,
         "titulo": "Piedra de Decoración - Tamaño Grande",
         "descripcion": "Piedra de gran tamaño para decoración de jardines.",
-        "categoria": "Jardinería",
+        "categoria": "jardineria",
         "imagen": "https://i.pinimg.com/1200x/88/47/41/884741452bf3aa0ba129adca375050c9.jpg",
         "precio": 1400,
         "stock": 24
